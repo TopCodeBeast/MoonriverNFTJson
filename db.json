@@ -12,7 +12,7 @@
             "description": "My NFT",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
             "image": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/BoomBox/glTF/BoomBox.gltf",
-            "animation_url": "https://github.com/TopCodeBeast/MoonriverNFTJson/donnie_chain.gltf",
+            "animation_url": "https://github.com/TopCodeBeast/MoonriverNFTJson/blob/master/donnie_chain.gltf",
             "name": "My NFT 1"
         },
         {
@@ -20,6 +20,7 @@
             "description": "My NFT",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
             "image": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Avocado/glTF/Avocado.gltf",
+            "animation_url": "https://github.com/TopCodeBeast/MoonriverNFTJson/blob/master/sword.gltf",
             "name": "My NFT 2"
         }
     ]
