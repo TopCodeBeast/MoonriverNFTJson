@@ -11,7 +11,7 @@
                     "id": 1,
                     "description": "My NFT1",
                     "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-                    "image": "https://github.com/TopCodeBeast/MoonriverNFTJson/blob/master/donnie_chain.gltf",
+                    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
                     "name": "My NFT 1"
                   },
                   {
@@ -19,15 +19,14 @@
                     "description": "My NFT2",
                     "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
                     "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-                    "animation_url": "https://github.com/TopCodeBeast/MoonriverNFTJson/blob/master/donnie_chain.gltf",
                     "name": "My NFT 2"
                   },
                   {
-                    "id": 4,
+                    "id": 3,
                     "description": "My NFT0",
                     "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
                     "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-                    "name": "My NFT 4"
+                    "name": "My NFT 3"
                   }
     ]
 }
