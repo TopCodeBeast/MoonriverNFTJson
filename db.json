@@ -10,6 +10,7 @@
     "id": 1,
     "description": "My NFT",
     "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+    "animation_url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/BoomBox/glTF/BoomBox.gltf",
     "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
     "name": "My NFT 1"
   },
@@ -17,6 +18,7 @@
     "id": 2,
     "description": "My NFT",
     "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+    "animation_url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Avocado/glTF/Avocado.gltf",
     "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
     "name": "My NFT 2"
   }
