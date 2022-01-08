@@ -21,6 +21,13 @@
                     "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
                     "animation_url": "https://github.com/TopCodeBeast/MoonriverNFTJson/blob/master/donnie_chain.gltf",
                     "name": "My NFT 2"
+                  },
+                  {
+                    "id": 4,
+                    "description": "My NFT0",
+                    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+                    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+                    "name": "My NFT 4"
                   }
     ]
 }
