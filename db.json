@@ -22,6 +22,14 @@
             "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
             "animation_url" : "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Avocado/glTF/Avocado.gltf",
             "name": "My NFT 2"
+        },
+  	{
+            "id": 3,
+            "description": "My NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "animation_url" : "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/BoomBox/glTF/BoomBox.gltf",
+            "name": "My NFT 3"
         }
     ]
 }
