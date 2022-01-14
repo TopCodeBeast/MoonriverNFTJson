@@ -9,27 +9,27 @@
         },
         {
             "id": 1,
-            "description": "My NFT",
+            "description": "donnie_chain.gltf",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
             "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "animation_url" : "https://github.com/TopCodeBeast/MoonriverNFTJson/blob/master/donnie_chain.gltf",
-            "name": "My NFT 1"
+            "animation_url" : "https://raw.githubusercontent.com/TopCodeBeast/MoonriverNFTJson/master/donnie_chain.gltf",
+            "name": "donnie_chain"
         },
         {
             "id": 2,
-            "description": "My NFT",
+            "description": "donnie_gauntlet.gltf",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
             "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "animation_url" : "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Avocado/glTF/Avocado.gltf",
-            "name": "My NFT 2"
+            "animation_url" : "https://raw.githubusercontent.com/TopCodeBeast/MoonriverNFTJson/master/donnie_gauntlet.gltf",
+            "name": "donnie_gauntlet"
         },
   	{
             "id": 3,
-            "description": "My NFT",
+            "description": "donnie_on.gltf",
             "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
             "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "animation_url" : "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/BoomBox/glTF/BoomBox.gltf",
-            "name": "My NFT 3"
+            "animation_url" : "https://raw.githubusercontent.com/TopCodeBeast/MoonriverNFTJson/master/donnie_on.gltf",
+            "name": "donnie_on"
         }
     ]
 }
